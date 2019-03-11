@@ -1,0 +1,41 @@
+
+#question-heading{
+  text-align: center;
+  font-size: 48pt;
+  /* padding-top: 5%; */
+  color: rgb(79, 79, 79);
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#answer-heading{
+  text-align: center;
+  font-size: 36pt;
+  /* padding-top: 5%; */
+  color: rgb(242, 106, 106);
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#stat{
+  text-align: center;
+  /* padding-top: 5%; */
+  color: rgb(79, 79, 79);
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#overview-stats{
+  text-align: center;
+  /* padding-top: 5%; */
+  color: rgb(125, 137, 155);
+  font-family: 'Playfair Display', serif;
+  /* font-family: 'Abril Fatface', cursive; */
+}
+
+#placeholder{
+  text-align: center;
+  padding-top: 5%;
+  color: rgb(125, 137, 155);
+  font-family: 'Playfair Display', serif;
+}
